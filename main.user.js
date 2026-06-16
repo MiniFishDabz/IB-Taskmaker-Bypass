@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name         Ak's IBTaskMaker Paywall Bypass
-// @namespace    https://chromepage.vercel.app/
 // @version      5.0
 // @description  Good luck on your studies.
 // @author       MiniFishDabz
